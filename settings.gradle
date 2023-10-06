@@ -1,0 +1,5 @@
+rootProject.name = 'velog_example'
+include 'velog-core'
+include 'velog-api-server'
+include 'velog-batch-server'
+
